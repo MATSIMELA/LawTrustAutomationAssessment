@@ -1,0 +1,212 @@
+﻿2021-06-13T20:47:16.2243521+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-13T20:47:16.2244687+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework netcore31 in x64 mode execution started
+2021-06-13T20:47:16.2244707+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-13T20:47:16.2258329+02:00;VSTestExecutionThread;Info;Current UserName: 'ftsoananyana', MachineName: 'ITL2VLJY93'
+2021-06-13T20:47:16.2422550+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LawTrust_UI_TestAutomation.dll
+2021-06-13T20:47:16.2423795+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\TestResults" (default)
+2021-06-13T20:47:16.2424277+02:00;VSTestExecutionThread;Info;Profile: 
+2021-06-13T20:47:16.2684238+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\TestResults\Unnamed project__2021-06-13T204716.log
+2021-06-13T20:47:16.2713742+02:00;Thread#12;Info;Checking activation
+2021-06-13T20:47:16.3269803+02:00;Thread#12;Info;Activated.
+2021-06-13T20:47:16.3271412+02:00;Thread#12;Info;Activation check completed
+2021-06-13T20:47:16.3271862+02:00;Thread#12;Info;Starting test run
+2021-06-13T20:47:16.3783190+02:00;Thread#12;Info;Discovering target: Default
+2021-06-13T20:47:16.3784203+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LawTrust_UI_TestAutomation.dll
+2021-06-13T20:47:16.4256316+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LawTrust_UI_TestAutomation.dll
+2021-06-13T20:47:16.4264046+02:00:Test Suite Dump
+2021-06-13T20:47:16.4273675+02:00:#0: Unnamed project/ - 
+2021-06-13T20:47:16.4273763+02:00:#1: Default - 
+2021-06-13T20:47:16.4273776+02:00:#2: LawTrust_UI_TestAutomation - 
+2021-06-13T20:47:16.4273784+02:00:#3: Registration - 
+2021-06-13T20:47:16.4280012+02:00:#4: Successfull Registration - TestAssembly:LawTrust_UI_TestAutomation/Feature:Registration/Scenario:Successfull+Registration
+2021-06-13T20:47:16.4280193+02:00:End: Test Suite Dump
+2021-06-13T20:47:16.4372964+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-13T20:47:16.4382328+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-13T20:47:16.4382630+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-13T20:47:16.4399852+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-13T20:47:16.4399904+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-13T20:47:16.4399922+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-13T20:47:16.4399934+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-13T20:47:16.4403231+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-13T20:47:16.4408583+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-13T20:47:16.4420588+02:00:Thread #0: creating new test thread executor for LawTrust_UI_TestAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-13T20:47:16.4433958+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-13T20:47:16.4434947+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-13T20:47:16.4448354+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-06-13T20:47:16.4457332+02:00:starting Out Of Process Executor
+2021-06-13T20:47:16.4467615+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-13T20:47:16.4482256+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-06-13T20:47:16.4482313+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-06-13T20:47:16.4488680+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:47:16.4490484+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-13T20:47:16.4490938+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-06-13T20:47:16.4491149+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:47:16.4492522+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-13T20:47:16.4496009+02:00:Tfm: netcoreapp3.1
+2021-06-13T20:47:16.4496242+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-13T20:47:16.4496256+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-13T20:47:16.4497224+02:00:[AssemblyCache] Found file 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-06-13T20:47:16.4501642+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-06-13T20:47:16.4505868+02:00:Starting callback TCP Rpc server
+2021-06-13T20:47:16.4599166+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-06-13T20:47:16.4599444+02:00:Started callback TCP Rpc server on port 32768
+2021-06-13T20:47:16.4599456+02:00:Starting logger TCP Rpc server
+2021-06-13T20:47:16.4610026+02:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-06-13T20:47:16.4610133+02:00:Started logger TCP Rpc server on port 32769
+2021-06-13T20:47:16.5078997+02:00:Executing test executor at 'dotnet' 'exec "C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 4984 --uniqueId "2021-06-13T204716" --outputFolder "C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:47:16.5127437+02:00:Executor with PID 21344 has been started successfully.
+2021-06-13T20:47:16.5146258+02:00:Out of Process Executor 21344 started
+2021-06-13T20:47:16.5146350+02:00:Waiting for endpoint
+2021-06-13T20:47:16.7047023+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-13T20:47:16.7047499+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-06-13T20:47:16.7047663+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-06-13T20:47:16.7047710+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:47:16.7047770+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-13T20:47:16.7048140+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-06-13T20:47:16.7048322+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:47:16.7048378+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-13T20:47:16.7049127+02:00:Tfm: netcoreapp3.1
+2021-06-13T20:47:16.7049205+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-13T20:47:16.7049214+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-13T20:47:16.7049937+02:00:[AssemblyCache] Found file 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-06-13T20:47:16.7053950+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-06-13T20:47:16.8368759+02:00:Remote executor port received: 32770
+2021-06-13T20:47:16.8370644+02:00:Creating executor TCP client on port 32770
+2021-06-13T20:47:16.8372826+02:00:Created executor TCP client on port 32770
+2021-06-13T20:47:16.8372864+02:00:Connecting to remote executor TCP server
+2021-06-13T20:47:16.8377590+02:00:Connected remote executor TCP server
+2021-06-13T20:47:16.8378627+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-06-13T20:47:16.8378671+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-06-13T20:47:16.9246468+02:00:2021-06-13T20:47:16.9238650+02:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LawTrust_UI_TestAutomation.dll on test thread #0
+2021-06-13T20:47:16.9273185+02:00:Endpoint 21344 started
+2021-06-13T20:47:16.9387867+02:00:2021-06-13T20:47:16.9384261+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-06-13T20:47:17.0122583+02:00:2021-06-13T20:47:17.0119750+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.8.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-06-13T20:47:17.0143387+02:00:2021-06-13T20:47:17.0141098+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-06-13T20:47:17.0164281+02:00:2021-06-13T20:47:17.0161161+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\FTsoananyana\.nuget\packages\specflow\3.8.7\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-06-13T20:47:17.0787512+02:00:2021-06-13T20:47:17.0782790+02:00:Thread#0:T:-> Loading plugin C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LawTrust_UI_TestAutomation.dll
+2021-06-13T20:47:17.0796259+02:00:2021-06-13T20:47:17.0794043+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-13T20:47:17.0800806+02:00:2021-06-13T20:47:17.0798335+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-06-13T20:47:17.0807094+02:00:2021-06-13T20:47:17.0804155+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\FTsoananyana\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-06-13T20:47:17.1064146+02:00:2021-06-13T20:47:17.1061068+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-13T20:47:17.1069294+02:00:2021-06-13T20:47:17.1067167+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-06-13T20:47:17.1074953+02:00:2021-06-13T20:47:17.1072955+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\FTsoananyana\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-06-13T20:47:17.1116977+02:00:2021-06-13T20:47:17.1114598+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in LawTrust_UI_TestAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-13T20:47:17.1121776+02:00:2021-06-13T20:47:17.1119443+02:00:Thread#0:T:-> Loading plugin C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-06-13T20:47:17.1134952+02:00:2021-06-13T20:47:17.1132988+02:00:Assembly resolving LivingDoc.Dtos, Version=3.8.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-13T20:47:17.1139332+02:00:2021-06-13T20:47:17.1137219+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-06-13T20:47:17.1146427+02:00:2021-06-13T20:47:17.1143910+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\FTsoananyana\.nuget\packages\specflow.plus.livingdocplugin\3.8.35\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-06-13T20:47:17.1166435+02:00:2021-06-13T20:47:17.1163158+02:00:Thread#0:T:-> Loading plugin C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-13T20:47:17.1223980+02:00:2021-06-13T20:47:17.1220717+02:00:Thread#0:T:-> Using default config
+2021-06-13T20:47:17.1281020+02:00:2021-06-13T20:47:17.1278615+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-06-13T20:47:17.1284835+02:00:2021-06-13T20:47:17.1283009+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-06-13T20:47:17.1291026+02:00:2021-06-13T20:47:17.1289254+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\FTsoananyana\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-06-13T20:47:17.1299606+02:00:2021-06-13T20:47:17.1297895+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-06-13T20:47:17.1303231+02:00:2021-06-13T20:47:17.1301302+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-06-13T20:47:17.1309033+02:00:2021-06-13T20:47:17.1306769+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\FTsoananyana\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-06-13T20:47:17.1346372+02:00:2021-06-13T20:47:17.1343503+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-13T20:47:17.1350308+02:00:2021-06-13T20:47:17.1348288+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-06-13T20:47:17.1354949+02:00:2021-06-13T20:47:17.1353931+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\FTsoananyana\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-06-13T20:47:17.1368676+02:00:2021-06-13T20:47:17.1367291+02:00:Assembly resolving nunit.framework, Version=3.13.2.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2021-06-13T20:47:17.1371039+02:00:2021-06-13T20:47:17.1369855+02:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2021-06-13T20:47:17.1374137+02:00:2021-06-13T20:47:17.1373099+02:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\FTsoananyana\.nuget\packages\nunit\3.13.2\lib\netstandard2.0\nunit.framework.dll'
+2021-06-13T20:47:17.1563450+02:00:2021-06-13T20:47:17.1560384+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-06-13T20:47:17.1568043+02:00:2021-06-13T20:47:17.1565837+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-06-13T20:47:17.1573247+02:00:2021-06-13T20:47:17.1570540+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\FTsoananyana\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-06-13T20:47:17.2725979+02:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-13T20:47:17.2840380+02:00:2021-06-13T20:47:17.2836715+02:00:Thread#0:B:Given "Login" page is displayed
+2021-06-13T20:47:17.2943189+02:00:2021-06-13T20:47:17.2940347+02:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-13T20:47:17.2946083+02:00:2021-06-13T20:47:17.2944527+02:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-06-13T20:47:17.2952198+02:00:2021-06-13T20:47:17.2949325+02:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\FTsoananyana\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-06-13T20:47:17.2968576+02:00:2021-06-13T20:47:17.2966260+02:00:Assembly resolving WebDriverManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-13T20:47:17.2978134+02:00:2021-06-13T20:47:17.2975238+02:00:[AssemblyCache] Trying to resolve 'WebDriverManager' from .deps.json file
+2021-06-13T20:47:17.2983071+02:00:2021-06-13T20:47:17.2981767+02:00:[AssemblyCache] Resolved 'WebDriverManager' to 'C:\Users\FTsoananyana\.nuget\packages\webdrivermanager\2.11.1\lib\netstandard2.0\WebDriverManager.dll'
+2021-06-13T20:47:17.3009871+02:00:2021-06-13T20:47:17.3005579+02:00:Assembly resolving AngleSharp, Version=0.14.0.0, Culture=neutral, PublicKeyToken=e83494dcdc6d31ea
+2021-06-13T20:47:17.3013657+02:00:2021-06-13T20:47:17.3011804+02:00:[AssemblyCache] Trying to resolve 'AngleSharp' from .deps.json file
+2021-06-13T20:47:17.3018838+02:00:2021-06-13T20:47:17.3017116+02:00:[AssemblyCache] Resolved 'AngleSharp' to 'C:\Users\FTsoananyana\.nuget\packages\anglesharp\0.14.0\lib\netstandard2.0\AngleSharp.dll'
+2021-06-13T20:47:39.4886502+02:00:2021-06-13T20:47:39.4873562+02:00:Thread#0:T:done: GivenStepDefinations.GivenPageIsDisplay("Login") (22.2s)
+2021-06-13T20:47:39.4910864+02:00:2021-06-13T20:47:39.4904353+02:00:Thread#0:B:And I click "Sign Up" button
+2021-06-13T20:47:44.2438416+02:00:2021-06-13T20:47:44.2428560+02:00:Thread#0:T:done: GivenStepDefinations.GivenIClickButton("Sign Up") (4.8s)
+2021-06-13T20:47:44.2453542+02:00:2021-06-13T20:47:44.2447892+02:00:Thread#0:B:And "Registration" page is displayed
+2021-06-13T20:47:44.2515526+02:00:2021-06-13T20:47:44.2508159+02:00:Thread#0:T:done: GivenStepDefinations.GivenPageIsDisplay("Registration") (0.0s)
+2021-06-13T20:47:44.2528354+02:00:2021-06-13T20:47:44.2522629+02:00:Thread#0:B:And I enter "Jerry" on Name field
+2021-06-13T20:47:48.3694495+02:00:2021-06-13T20:47:48.3684769+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterOnNameField("Jerry") (4.1s)
+2021-06-13T20:47:48.3705181+02:00:2021-06-13T20:47:48.3701466+02:00:Thread#0:B:And I enter "Test12@gmail.com" on Email field
+2021-06-13T20:47:52.4899904+02:00:2021-06-13T20:47:52.4889321+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterOnEmailField("Test12@gmail.com") (4.1s)
+2021-06-13T20:47:52.4909681+02:00:2021-06-13T20:47:52.4907061+02:00:Thread#0:B:And I enter "012345" on Mobile Number field
+2021-06-13T20:47:56.6051134+02:00:2021-06-13T20:47:56.6040803+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterOnMobileNumberField(12345) (4.1s)
+2021-06-13T20:47:56.6068566+02:00:2021-06-13T20:47:56.6061156+02:00:Thread#0:B:And I enter "Software Quality Engineer" on Job Title field
+2021-06-13T20:48:00.7527939+02:00:2021-06-13T20:48:00.7518038+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterOnJobTitleField("Software Quality ...") (4.1s)
+2021-06-13T20:48:00.7551262+02:00:2021-06-13T20:48:00.7539158+02:00:Thread#0:B:And I enter "Dariel" on Company Name field
+2021-06-13T20:48:04.8667683+02:00:2021-06-13T20:48:04.8659552+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterOnCompanyNameField("Dariel") (4.1s)
+2021-06-13T20:48:04.8678975+02:00:2021-06-13T20:48:04.8674819+02:00:Thread#0:B:And I enter "Accept" terms and Conditions
+2021-06-13T20:48:13.3040676+02:00:2021-06-13T20:48:13.3031224+02:00:Thread#0:T:done: GivenStepDefinations.GivenIEnterTermsAndConditions("Accept") (8.4s)
+2021-06-13T20:48:13.3061983+02:00:2021-06-13T20:48:13.3053864+02:00:Thread#0:B:When I click "Next" button
+2021-06-13T20:48:13.3221109+02:00:2021-06-13T20:48:13.3216584+02:00:Thread#0:T:pending: WhenStepDefinations.WhenIClickButton("Next")
+2021-06-13T20:48:13.3233750+02:00:2021-06-13T20:48:13.3229457+02:00:Thread#0:B:Then I expect to see title ""
+2021-06-13T20:48:13.3247415+02:00:2021-06-13T20:48:13.3243347+02:00:Thread#0:T:skipped because of previous errors
+2021-06-13T20:48:13.3311213+02:00:2021-06-13T20:48:13.3306757+02:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2021-06-13T20:48:13.3317589+02:00:2021-06-13T20:48:13.3314165+02:00:Thread#0:T:  WhenStepDefinations.WhenIClickButton("Next")
+2021-06-13T20:48:13.3372551+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-13T20:48:13.3373026+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-13T20:48:13.3373046+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-13T20:48:13.3373068+02:00:Thread#0:Scheduler: No more tests for thread
+2021-06-13T20:48:13.3723066+02:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 56.0991577 seconds
+2021-06-13T20:48:13.3778882+02:00:2021-06-13T20:48:13.3775845+02:00:Got Deinitialize Signal
+2021-06-13T20:48:13.3801475+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-06-13T20:48:13.3809623+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-13T20:48:13.3818432+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-13T20:48:13.3826388+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-13T20:48:13.3826503+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-06-13T20:48:13.3826536+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-06-13T20:48:13.3826580+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:48:13.3826592+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-13T20:48:13.3826821+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-13T20:48:13.3826990+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1'
+2021-06-13T20:48:13.3827032+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-13T20:48:13.3827412+02:00:Tfm: netcoreapp3.1
+2021-06-13T20:48:13.3827437+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-13T20:48:13.3827444+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-13T20:48:13.3827698+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-13T20:48:13.3828451+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\LawTrust_UI_TestAutomation\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-13T20:48:13.3868598+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-13T20:48:13.3868717+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-13T20:48:13.3869185+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-13T20:48:13.3869439+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-06-13T20:48:13.3871224+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-13T20:48:13.3871265+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-13T20:48:13.3871536+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-13T20:48:13.3871743+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-06-13T20:48:13.3873004+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-13T20:48:13.3873040+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-06-13T20:48:13.3873333+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-06-13T20:48:13.3873604+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-06-13T20:48:13.3880809+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-13T20:48:13.3924426+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-13T20:48:13.3924739+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-13T20:48:13.3924763+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-13T20:48:13.3941014+02:00;Thread#12;Info;test run finished
+2021-06-13T20:48:13.3942262+02:00;Thread#12;Info;publishing test results
+2021-06-13T20:48:13.3943224+02:00;Thread#12;Info;Not publishing results.
+2021-06-13T20:48:13.3943593+02:00;Thread#12;Info;test results published
+2021-06-13T20:48:13.3943844+02:00;Thread#12;Info;generating reports
+2021-06-13T20:48:13.4499238+02:00;Thread#12;Info;Starting external report generation process
+2021-06-13T20:48:14.1705865+02:00;Thread#12;Info;Successfully generated reports.
+2021-06-13T20:48:14.1718088+02:00;Thread#12;Info;Successfully generated reports
+2021-06-13T20:48:14.1757407+02:00:Total: 1
+2021-06-13T20:48:14.1767757+02:00:Succeeded: 0
+2021-06-13T20:48:14.1769321+02:00:Ignored: 0
+2021-06-13T20:48:14.1770546+02:00:Pending: 1
+2021-06-13T20:48:14.1770586+02:00:Skipped: 0
+2021-06-13T20:48:14.1771841+02:00:Failed: 0
+2021-06-13T20:48:14.1807966+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-13T20:48:14.1808543+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\FTsoananyana\source\repos\LawTrust_UI_TestAutomation\TestResults\Unnamed project__2021-06-13T204716.html'
+========== End of log file ==========
